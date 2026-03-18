@@ -1,0 +1,10 @@
+{"mcpServers": {                                                                                                                               
+      "clockin": {                                                                                                                                
+        "command": "node",                                                                                                                        
+        "args": ["/Users/dominikhorn/Code/dimacon/clockin-mcp/dist/index.js"],                                                                    
+        "env": {                                                                                                                                  
+          "CLOCKIN_API_TOKEN": "xxsagfds"                                                                                                  
+        }                                                                                                                                       
+      }                                                                                                                                           
+    } 
+}
